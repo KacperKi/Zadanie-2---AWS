@@ -48,3 +48,8 @@
 ```
 gh repo list
 ```
+
+
+ [↪️ Przejdź do 2 rozdziału](https://github.com/KacperKi/Zadanie-2---AWS/blob/main/2%20step.md)
+
+ [↪️ Wróć do wstępu]( https://github.com/KacperKi/Zadanie-2---AWS/blob/main/Introduction.md)
