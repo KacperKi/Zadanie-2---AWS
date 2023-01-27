@@ -1,4 +1,4 @@
-# Zadanie nr. 2 - AWS - Github - CLI
+# Zadanie nr. 2 - [AWS](https://aws.amazon.com/) - Github - CLI
 ## Realizacja zadania nr. 2 w ramach laboratorium Programowanie full-stack w chmurze obliczeniowej.
  
 ### Operacje na repozytorium - Github - Lokalne repozytrium
@@ -29,4 +29,22 @@
 
     ? What should the new remote be called? origin
     ✓ Added remote git@github.com:KacperKi/Zadanie-2---AWS.git
+```
+
+> Lokalne repozytorium - przesłanie na Github - pierwsze commit
+```
+    git branch -M main
+    git add .
+    git commit -m "Pierwszy komit"
+    git push --set-upstream origin main
+```
+
+> Narzędzie dostępne pod - [Git bash](https://gitforwindows.org/)</br>
+
+> Repozytoria autora - GitHub.com - [KacperKi](https://github.com/KacperKi)
+
+## Weryfikacja utworzonego repozytorium na liście repozytrium 
+> ℹ️  W celu filtracji wyników - użyj polecenia `grep 'param'` - wyszkując w ten sposób określone repozytroium.
+```
+gh repo list
 ```
